@@ -1,0 +1,8 @@
+//Deine Mum ist ein fetter Penis
+
+if(DeineMuddaIstFett == true) {
+ mudda.FettAbpumpen(3400, true); //Arguments: (Fett in Liter, IstWirklichFett)
+}
+else {
+ System.out.println("ERROR: Das ist wohl nicht deine Mudda");
+}
